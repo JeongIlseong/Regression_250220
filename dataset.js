@@ -34,8 +34,8 @@ d1.set_img(1,{imgtitle:"선택데이터2",imgurl:"https://drive.google.com/file/
 d1.set_img(1,{imgtitle:"미선택데이터",imgurl:"https://drive.google.com/file/d/1prRUEB8jO_OvDIxqv2nxGI-CCPT5U-GC/view?usp=drive_link",imglog:"선형성이 없으므로 1년후 질량과 연관이 없음으로 판명되어 분석에서 제외",sourceurl:""})//이미지타이틀
 d1.set_img(1,{imgtitle:"데이터추출",imgurl:"https://drive.google.com/file/d/13lOi4VQ2InDALG3NDnlHtEQmNkGUKl9d/view?usp=drive_link",imglog:"선택된 2,8번의 인덱스 데이터 추출 및 데이터 모양 확인 후 문제데이터와 정답데이터 값 확인분석",sourceurl:""})//이미지타이틀
 d1.set_img(1,{imgtitle:"모델구성과 훈련",imgurl:"https://drive.google.com/file/d/1V4Op_0gCezDqBX17pe1v8NgIb9Gv3huq/view?usp=drive_link",imglog:"순차모델구성과 입출력 레이 구성, MSE손실함수와 SGD를 최적화함수 사용하여 컴파일 및 훈련 13회 실행",sourceurl:""})//이미지타이틀
-d1.set_img(1,{imgtitle:"",imgurl:"https://drive.google.com/file/d/1fCA5YNzcyPG7E98kGFBlUyG_1OCRZwdM/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
-d1.set_img(1,{imgtitle:"",imgurl:"https://drive.google.com/file/d/1OzI4CLllDVi6_HtUQE6Ojjzh2SpEjrqu/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"훈련결과시각화",imgurl:"https://drive.google.com/file/d/1fCA5YNzcyPG7E98kGFBlUyG_1OCRZwdM/view?usp=drive_link",imglog:"100회 이상의 훈련후 시각그래프 판단하에 12회 훈련이 최적화로 판단되어 12회 훈련으로 조기 종료함",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"데이터 예측",imgurl:"https://drive.google.com/file/d/1OzI4CLllDVi6_HtUQE6Ojjzh2SpEjrqu/view?usp=drive_link",imglog:"테스트 데이터를 10개를 추출하여 예측 실행, 결과는 오차확률 4% 수치대로 접근",sourceurl:""})//이미지타이틀
 
 
 d1.set_content("코딩개발도구와 테스트 및 빌드, 패키징, 배포등 개발 전반에 대한 필요한 환경을 설정한다.")
