@@ -32,7 +32,7 @@ d1.set_img(1,{imgtitle:"연관성분석을 위한 산점도",imgurl:"https://dri
 d1.set_img(1,{imgtitle:"선택데이터1",imgurl:"https://drive.google.com/file/d/1S46qFh38vPj7exySU-0XfUqqvVTZdZmn/view?usp=drive_link",imglog:"hmi 대각방향의 선형형태를 띄고 있어 1년후 질량과 연관이 있는 데이터로 판명",sourceurl:""})//이미지타이틀
 d1.set_img(1,{imgtitle:"선택데이터2",imgurl:"https://drive.google.com/file/d/1qLuGLo66PC13sBWp5OxKRl3JpP8Fxt6V/view?usp=drive_link",imglog:"s5 대각방향의 선형형태를 띄고 있어 1년후 질량과 연관이 있는 데이터로 판명",sourceurl:""})//이미지타이틀
 d1.set_img(1,{imgtitle:"미선택데이터",imgurl:"https://drive.google.com/file/d/1prRUEB8jO_OvDIxqv2nxGI-CCPT5U-GC/view?usp=drive_link",imglog:"선형성이 없으므로 1년후 질량과 연관이 없음으로 판명되어 분석에서 제외",sourceurl:""})//이미지타이틀
-d1.set_img(1,{imgtitle:"데이터추출",imgurl:"https://drive.google.com/file/d/13lOi4VQ2InDALG3NDnlHtEQmNkGUKl9d/view?usp=drive_link",imglog:선택된 2,8번의 인덱스 데이터 추출 및 데이터 모양 확인 후 문제데이터와 정답데이터 값 확인분석"",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"데이터추출",imgurl:"https://drive.google.com/file/d/13lOi4VQ2InDALG3NDnlHtEQmNkGUKl9d/view?usp=drive_link",imglog:"선택된 2,8번의 인덱스 데이터 추출 및 데이터 모양 확인 후 문제데이터와 정답데이터 값 확인분석",sourceurl:""})//이미지타이틀
 d1.set_img(1,{imgtitle:"모델구성과 훈련",imgurl:"https://drive.google.com/file/d/1V4Op_0gCezDqBX17pe1v8NgIb9Gv3huq/view?usp=drive_link",imglog:"순차모델구성과 입출력 레이 구성, MSE손실함수와 SGD를 최적화함수 사용하여 컴파일 및 훈련 13회 실행",sourceurl:""})//이미지타이틀
 d1.set_img(1,{imgtitle:"",imgurl:"https://drive.google.com/file/d/1fCA5YNzcyPG7E98kGFBlUyG_1OCRZwdM/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
 d1.set_img(1,{imgtitle:"",imgurl:"https://drive.google.com/file/d/1OzI4CLllDVi6_HtUQE6Ojjzh2SpEjrqu/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
