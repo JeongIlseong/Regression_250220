@@ -25,9 +25,17 @@ d1.set_img(0,{imgtitle:"훈련결과의 시각화",imgurl:"https://drive.google.
 d1.set_img(0,{imgtitle:"모델의 예측",imgurl:"https://drive.google.com/file/d/1YOHhgINNAVzdMSN3g7xZvCL938paDNDs/view?usp=drive_link",imglog:"임의의 데이터를 생성하여 모델의 예측 결과를 표기",sourceurl:"https://docs.google.com/document/d/1fYO-WllL1nq8-qJC6Aj8fTeQplv7hvQzxUfRQAgAamo/edit?usp=drive_link"})//이미지타이틀
 
 
-d1.set_content("목표 시스템 개발을 위한 적정한 언어를 선정하고 라이선스와 향후 지원사항을 참고하여 결정한다.")
-d1.set_img(1,{imgtitle:"개발언어선정",imgurl:"https://drive.google.com/file/d/15GgAeFgW1Cxctk9PbJagUNfG2UkEU4WS/view?usp=drive_link",imglog:"자바언어기반 스프링프레임워크, html5, memberData file",sourceurl:"https://docs.google.com/document/d/1UvD1fZNL9yjLORwxgAW5vD6C-A_RwL1zcNan9RZqmys/edit?usp=drive_link"})//이미지타이틀
-d1.set_img(1,{imgtitle:"스프링프레임워크",imgurl:"https://drive.google.com/file/d/1HRUQhj2Tk6AzIW_NSRD59wGUAduJYTmW/view?usp=drive_link",imglog:"오픈소스 스프링프레임워크 v4.221",sourceurl:""})//이미지타이틀
+d1.set_content("당뇨환자에 대한 1년 상태 예측, 예측값은 연속데이터로 출력")
+d1.set_img(1,{imgtitle:"샘플소스코드",imgurl:"https://drive.google.com/file/d/1pwNqgKksSjmjEQMZweU6znZufSmd37kS/view?usp=drive_link",imglog:"당뇨환자에 대한 나이, 성별 드응ㄹ 10개의 항목을 측정하여 1년후 당뇨수치에 대한 증감",sourceurl:"https://docs.google.com/document/d/1UvD1fZNL9yjLORwxgAW5vD6C-A_RwL1zcNan9RZqmys/edit?usp=drive_link"})//이미지타이틀
+d1.set_img(1,{imgtitle:"소스데이터수신 및 분석",imgurl:"https://drive.google.com/file/d/1Ix_aL2S8iNR5PWyqbPVky3d37r7SPqxy/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"연관성분석을 위한 산점도",imgurl:"https://drive.google.com/file/d/1K4rP9avRKdyFA3LsYARPuBsqQPZwsxge/view?usp=drive_link",imglog:"1년후 질량과 측정된 수치의 연관성 분석을 위한 산점도 그래프",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"선택데이터1",imgurl:"https://drive.google.com/file/d/1S46qFh38vPj7exySU-0XfUqqvVTZdZmn/view?usp=drive_link",imglog:"hmi 대각방향의 선형형태를 띄고 있어 1년후 질량과 연관이 있는 데이터로 판명",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"선택데이터2",imgurl:"https://drive.google.com/file/d/1qLuGLo66PC13sBWp5OxKRl3JpP8Fxt6V/view?usp=drive_link",imglog:"s5 대각방향의 선형형태를 띄고 있어 1년후 질량과 연관이 있는 데이터로 판명",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"미선택데이터",imgurl:"https://drive.google.com/file/d/1prRUEB8jO_OvDIxqv2nxGI-CCPT5U-GC/view?usp=drive_link",imglog:"선형성이 없으므로 1년후 질량과 연관이 없음으로 판명되어 분석에서 제외",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"데이터추출",imgurl:"https://drive.google.com/file/d/13lOi4VQ2InDALG3NDnlHtEQmNkGUKl9d/view?usp=drive_link",imglog:선택된 2,8번의 인덱스 데이터 추출 및 데이터 모양 확인 후 문제데이터와 정답데이터 값 확인분석"",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"모델구성과 훈련",imgurl:"https://drive.google.com/file/d/1V4Op_0gCezDqBX17pe1v8NgIb9Gv3huq/view?usp=drive_link",imglog:"순차모델구성과 입출력 레이 구성, MSE손실함수와 SGD를 최적화함수 사용하여 컴파일 및 훈련 13회 실행",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"",imgurl:"https://drive.google.com/file/d/1fCA5YNzcyPG7E98kGFBlUyG_1OCRZwdM/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"",imgurl:"https://drive.google.com/file/d/1OzI4CLllDVi6_HtUQE6Ojjzh2SpEjrqu/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
 
 
 d1.set_content("코딩개발도구와 테스트 및 빌드, 패키징, 배포등 개발 전반에 대한 필요한 환경을 설정한다.")
