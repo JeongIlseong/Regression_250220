@@ -17,7 +17,12 @@ class DataSet{
 
 let d1 = new DataSet("선형회귀분석")//메인 타이틀 //메뉴번호
 d1.set_content("공부시간과 성적과의 관련선의 선형성을 가진 연속적인 데이터를 활용하여 연속된 예상값을 추출하는 모델")//서브 타이틀
-d1.set_img(0,{imgtitle:"요구사항명세서작성",imgurl:"https://drive.google.com/file/d/1nnSKw0su1NKkr-4O3bXNv33_ZZ8D54Qk/view?usp=drive_link",imglog:"작성된 요구사항 명",sourceurl:"https://docs.google.com/document/d/1fYO-WllL1nq8-qJC6Aj8fTeQplv7hvQzxUfRQAgAamo/edit?usp=drive_link"})//이미지타이틀
+d1.set_img(0,{imgtitle:"일부코드샘플",imgurl:"https://drive.google.com/file/d/1aTIM1Li9X9R51luTiPq0jN5XXcDBFKvF/view?usp=drive_link",imglog:"시험성적데이터를 임으로 만들어 선영회귀분석 코드",sourceurl:"https://docs.google.com/document/d/1fYO-WllL1nq8-qJC6Aj8fTeQplv7hvQzxUfRQAgAamo/edit?usp=drive_link"})//이미지타이틀
+d1.set_img(0,{imgtitle:"데이터분석",imgurl:"https://drive.google.com/file/d/1zQbjjS7nVTkrTw001T_y0jr4u8CgVwSx/view?usp=drive_link",imglog:"문제데이터의 선형성 관계 파악을 위한 산점도 그래프분석",sourceurl:"https://docs.google.com/document/d/1fYO-WllL1nq8-qJC6Aj8fTeQplv7hvQzxUfRQAgAamo/edit?usp=drive_link"})//이미지타이틀
+d1.set_img(0,{imgtitle:"데이터전처리",imgurl:"https://drive.google.com/file/d/17Tnnnr0v3HGa6xNz7bBiM4iG_byz-xep/view?usp=drive_link",imglog:"훈련시 모델의 올바른 학습을 위해 데이터를 정규분포로 표준화 전처리 시행",sourceurl:"https://docs.google.com/document/d/1fYO-WllL1nq8-qJC6Aj8fTeQplv7hvQzxUfRQAgAamo/edit?usp=drive_link"})//이미지타이틀
+d1.set_img(0,{imgtitle:"선형모델의 구성, 컴파일, 훈련",imgurl:"https://drive.google.com/file/d/1x-WFVqI_aCA9fEFiYwxcdZTsCb_ADfRi/view?usp=drive_link",imglog:"Sequential모델 및 입력출력레이어 작성과 MSE오차손실함수 및 SGD(경사하강법) 최적화함수 적용과 200회 훈련 실행",sourceurl:"https://docs.google.com/document/d/1fYO-WllL1nq8-qJC6Aj8fTeQplv7hvQzxUfRQAgAamo/edit?usp=drive_link"})//이미지타이틀
+d1.set_img(0,{imgtitle:"훈련결과의 시각화",imgurl:"https://drive.google.com/file/d/1XzfHkA7SNPB3pK7WwpAqjyp4_LlvhV2Q/view?usp=drive_link",imglog:"시각화 그래프 판단시 120회 훈련에서 조기종료를 검토할 수 있다.",sourceurl:"https://docs.google.com/document/d/1fYO-WllL1nq8-qJC6Aj8fTeQplv7hvQzxUfRQAgAamo/edit?usp=drive_link"})//이미지타이틀
+d1.set_img(0,{imgtitle:"모델의 예측",imgurl:"https://drive.google.com/file/d/1VKl5vAyJeCTuncuGAzc2aA8RdjloROw4/view?usp=drive_link",imglog:"임의의 데이터를 생성하여 모델의 예측 결과를 표기",sourceurl:"https://docs.google.com/document/d/1fYO-WllL1nq8-qJC6Aj8fTeQplv7hvQzxUfRQAgAamo/edit?usp=drive_link"})//이미지타이틀
 
 
 d1.set_content("목표 시스템 개발을 위한 적정한 언어를 선정하고 라이선스와 향후 지원사항을 참고하여 결정한다.")
