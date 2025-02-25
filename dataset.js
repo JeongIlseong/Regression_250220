@@ -47,8 +47,8 @@ d1.set_img(2,{imgtitle:"훈련을 위한 데이터 선택",imgurl:"https://drive
 d1.set_img(2,{imgtitle:"훈련데이터 전처리",imgurl:"https://drive.google.com/file/d/19eRwtS_M8MxylFHygNaexFWzzEnEOq2l/view?usp=drive_link",imglog:"훈련데이터의 수치 폭을 확인 후 정규분포데이터로 표준화 실행",sourceurl:"https://docs.google.com/document/d/1rNVbHnhYGoozaqX_RsD3cErmKYzGUMvba9ihxbP2CKk/edit?usp=drive_link"})//이미지타이틀
 d1.set_img(2,{imgtitle:"모델 구성 및 훈련",imgurl:"https://drive.google.com/file/d/1aes5fFNb0oKs9dDHslyY6PNyQjeqIrWN/view?usp=drive_link",imglog:"순차모델 구성과 입출력레이어 추가, MSE 손실함수 및 SGD 최적화함수를 적용하여 컴파일, 10회 훈련 실시",sourceurl:"https://docs.google.com/document/d/1rNVbHnhYGoozaqX_RsD3cErmKYzGUMvba9ihxbP2CKk/edit?usp=drive_link"})//이미지타이틀
 d1.set_img(2,{imgtitle:"훈련결과 시각화",imgurl:"https://drive.google.com/file/d/1OS3P4eBenEPb2bX2ItzbbHI7azeltwCV/view?usp=drive_link",imglog:"훈련결과 손실값을 시각화 그래프 출력 결과 분석 및 확인",sourceurl:"https://docs.google.com/document/d/1rNVbHnhYGoozaqX_RsD3cErmKYzGUMvba9ihxbP2CKk/edit?usp=drive_link"})//이미지타이틀
-d1.set_img(2,{imgtitle:"",imgurl:"https://drive.google.com/file/d/1Ywkc5uzrhnmg_g_3Q7iv0fGylcX4F6j3/view?usp=drive_link",imglog:"",sourceurl:"https://docs.google.com/document/d/1rNVbHnhYGoozaqX_RsD3cErmKYzGUMvba9ihxbP2CKk/edit?usp=drive_link"})//이미지타이틀
-d1.set_img(2,{imgtitle:"",imgurl:"https://drive.google.com/file/d/1bTN4HwzJpBAQnowiTTZlo-BZUha1ianF/view?usp=drive_link",imglog:"",sourceurl:"https://docs.google.com/document/d/1rNVbHnhYGoozaqX_RsD3cErmKYzGUMvba9ihxbP2CKk/edit?usp=drive_link"})//이미지타이틀
+d1.set_img(2,{imgtitle:"테스트데이터 추출",imgurl:"https://drive.google.com/file/d/1Ywkc5uzrhnmg_g_3Q7iv0fGylcX4F6j3/view?usp=drive_link",imglog:"테스트데이터 필드 추출 및 정규화 실행",sourceurl:"https://docs.google.com/document/d/1rNVbHnhYGoozaqX_RsD3cErmKYzGUMvba9ihxbP2CKk/edit?usp=drive_link"})//이미지타이틀
+d1.set_img(2,{imgtitle:"테스트 결과 추출",imgurl:"https://drive.google.com/file/d/1bTN4HwzJpBAQnowiTTZlo-BZUha1ianF/view?usp=drive_link",imglog:"테스트데이터 예측 확률 23.05%",sourceurl:"https://docs.google.com/document/d/1rNVbHnhYGoozaqX_RsD3cErmKYzGUMvba9ihxbP2CKk/edit?usp=drive_link"})//이미지타이틀
 
 d1.set_fill("선형 분석을 위한 데이터 표준화 및 훈련실행시 연관된 데이터를 수집, 분석하여 데이터를 선택함이 중요하게 생각된다.")//사용자 에필로그
 data_sets.push(d1)
