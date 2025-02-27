@@ -12,18 +12,14 @@ menu0.url = "?menu=0"
 menu0.tips = ["1.1 성적 예측","1.2 당뇨 상태 예측","1.3 보스턴 주택가격 예측"]
 menu1 = new Menu("2. 로지스틱 회귀분석")
 menu1.url = "?menu=1"
-menu1.tips = ["2.1 임시","2.2 임시","2.3 임시"] //로그인 로그아웃 기능
-menu2 = new Menu("3. 임시메뉴")
+menu1.tips = ["2.1 이진분류(중앙데이터)","2.2 이진분류(당뇨데이터)"] //로그인 로그아웃 기능
+menu2 = new Menu("3. 카테고리 분류모델")
 menu2.url = "?menu=2"
 menu2.tips = ["3.1 임시","3.2 임시"]
-menu3 = new Menu("4. 임시메뉴")
-menu3.url = "?menu=3"
-menu3.tips = ["4.1 임시"]// (5분마다 프로그램 정상 작동유무 출력 메시지 스케줄링 확인)
 
 
 
 menu_sets.push(menu0)
 menu_sets.push(menu1)
 menu_sets.push(menu2)
-menu_sets.push(menu3)
 
